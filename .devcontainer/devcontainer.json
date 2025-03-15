@@ -12,8 +12,7 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"golang.go",
-				"premparihar.gotestexplorer",
-				"doggy8088.go-extension-pack"
+				"premparihar.gotestexplorer"
 			]
 		}
 	}
